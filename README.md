@@ -1,2 +1,26 @@
-# diff-match-patch-demo
-基于diff-match-patch封装的文本版本比对工具。
+# demo-diff
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
